@@ -1,0 +1,21 @@
+#main-form{
+    background-color: rgb(224, 249, 249);
+    width:430px ;
+    height: 370px;
+    border-radius: 10px;
+}
+#main-form button {
+    background-color: rgb(56, 108, 205);
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 30px;
+    color: white;
+    border: 2px solid rgb(237, 225, 225)  ;
+
+}
+#main-form button:hover{
+    background-color: rgb(62, 73, 222);
+    color: white;
+    width: 100px;
+    height: 50px;
+} 
